@@ -1,0 +1,30 @@
+body {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.calculation {
+  display: flex;
+  gap: 3rem;
+  border: 1px solid;
+}
+
+p {
+  font-size: 30px;
+}
+
+span {
+  margin-bottom: 1rem;
+}
+
+button {
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.reset {
+  margin-bottom: 1rem;
+}
