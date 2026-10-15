@@ -1,5 +1,5 @@
 const heading = document.querySelector("h1");
-// console.log((heading.textContent = "Changed words"));
+// console.log(heading.textContent = "Changed words");
 
 // TASK 2
 const paragraph = document.querySelector("p");
@@ -9,7 +9,7 @@ const paragraph = document.querySelector("p");
 paragraph.classList = "gray";
 
 const list = document.querySelector("li");
-console.log((list.textContent = "Congratulations"));
+// console.log((list.textContent = "Congratulations"));
 
 // QUESTIONS
 // 1- What is the DOM
